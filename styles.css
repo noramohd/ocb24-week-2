@@ -59,6 +59,10 @@ i:hover {
   list-style-type: none;
 }
 
+.nav-icons {
+  color: white;
+}
+
 i,
 i::before {
   font-size: 24px;
@@ -229,6 +233,10 @@ footer {
   display: flex;
   flex-direction: row;
   gap: 16px;
+}
+
+.footer-icons {
+  color: white
 }
 
 .top-footer,
